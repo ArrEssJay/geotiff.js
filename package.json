@@ -10,6 +10,9 @@
     "raster"
   ],
   "main": "dist/main.js",
+   "files": [
+    "dist/"
+  ],
   "dependencies": {
     "pako": "^1.0.3",
     "xmldom": "0.1.*"
